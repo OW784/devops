@@ -1,1 +1,1 @@
-Practice project
+Practice project - adding text
