@@ -6,7 +6,7 @@ Practice project
 
 [![Releases](https://img.shields.io/github/release/OW784/devops/all.svg?style=flat-square)](https://github.com/OW784/devops/releases)
 
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/OW784/devops/main.yml/develop?style=flat-square)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/OW784/devops/main.yml?branch=develop)
 
 
 
