@@ -6,7 +6,7 @@ Practice project
 
 [![Releases](https://img.shields.io/github/release/OW784/devops/all.svg?style=flat-square)](https://github.com/OW784/devops/releases)
 
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/OW784/devops/main.yml?branch=<branch>&style=flat-square)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/OW784/devops/A%20workflow%20for%20my%20Hello%20World%20App/<branch>?style=flat-square)
 
 
 
