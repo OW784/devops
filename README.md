@@ -5,3 +5,6 @@ Practice project
 [![LICENSE](https://img.shields.io/github/license/OW784/devops.svg?style=flat-square)](https://github.com/OW784/devops/blob/master/LICENSE)
 
 [![Releases](https://img.shields.io/github/release/OW784/devops/all.svg?style=flat-square)](https://github.com/OW784/devops/releases)
+
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/OW784/devops/<action name taken from main.yml>/<branch>?style=flat-square)
+
