@@ -11,7 +11,7 @@ public class App
     {
         System.out.println("Boo yah!");
 
-        MongoClient mongoClient = new MongoClient("localhost", 27017);
+        MongoClient mongoClient = new MongoClient("localhost", 27000);
 
         MongoDatabase database = mongoClient.getDatabase("mydb");
 
