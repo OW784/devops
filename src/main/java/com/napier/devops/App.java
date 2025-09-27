@@ -1,4 +1,4 @@
-package com.napier.sem;
+package com.napier.devops;
 
 import com.mongodb.MongoClient;
 import com.mongodb.client.MongoDatabase;
@@ -11,7 +11,7 @@ public class App
     {
         System.out.println("Boo yah!");
 
-        MongoClient mongoClient = new MongoClient("localhost", 27000);
+        MongoClient mongoClient = new MongoClient("localhost", 27017);
 
         MongoDatabase database = mongoClient.getDatabase("mydb");
 
